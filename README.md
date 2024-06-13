@@ -72,5 +72,3 @@
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/iamrklodhi"><img alt="Check out iamrklodhi's profile on stardev.io" src="https://stardev.io/developers/iamrklodhi/badge/languages/locality.svg" /></a>
-
----
