@@ -71,4 +71,4 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/iamrklodhi"><img alt="Check out iamrklodhi's profile on stardev.io" src="https://stardev.io/developers/iamrklodhi/badge/languages/locality.svg" /></a>
+<a href="[https://stardev.io/developers/iamrklodhi](https://www.google.com/maps/place/Vidisha,+Madhya+Pradesh+464001/@23.5201906,77.7739029,13z/data=!3m1!4b1!4m6!3m5!1s0x397c04502a3166f5:0x7da6896331548213!8m2!3d23.5235719!4d77.8139718!16zL20vMDNyM2hs?entry=ttu)"><img alt="Check out iamrklodhi's profile on stardev.io" src="https://stardev.io/developers/iamrklodhi/badge/languages/locality.svg" /></a>
