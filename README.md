@@ -74,11 +74,3 @@
 <a href="https://stardev.io/developers/iamrklodhi"><img alt="Check out iamrklodhi's profile on stardev.io" src="https://stardev.io/developers/iamrklodhi/badge/languages/locality.svg" /></a>
 
 ---
-
-
-### Top Repositories
-
-
-<a href="[https://github.com/iamrklodhi/iamrklodhi.git]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrklodhi&repo=developer-portfolio&theme=algolia" />
-</a>
