@@ -79,9 +79,6 @@
 ### Top Repositories
 
 
-<a href="https://github.com/iamrklodhi/developer-portfolio">
+<a href="[https://github.com/iamrklodhi/iamrklodhi.git]">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrklodhi&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/iamrklodhi/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrklodhi&repo=Express-Postgres-blog&theme=algolia" />
 </a>
